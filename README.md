@@ -35,21 +35,7 @@
   </a>
 </div>
 
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://spotify-lzrs2s-projects.vercel.app/?" alt="Widget with the current Spotify song"  />
-</div>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=LZRS1&theme=discord_old_blurple" alt="Layout with last medium posts"  />
-</div>
+[![Spotify](https://spotify-one-tawny.vercel.app/api/spotify)](https://open.spotify.com/user/31dt4crs7es32jddzspbji7lsq7u)
 
 ###
 
@@ -83,8 +69,6 @@
   <img src="https://skillicons.dev/icons?i=angular" height="40" alt="angularjs logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/arduino/00979D" height="40" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/microsoftazure/0078D4" height="40" alt="azure logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="bash logo"  />
   <img width="12" />
@@ -172,13 +156,7 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/threedotjs/000000" height="40" alt="threejs logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/visualstudio/5C2D91" height="40" alt="visualstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" height="40" alt="vscode logo"  />
-  <img width="12" />
   <img src="https://cdn.simpleicons.org/vuedotjs/4FC08D" height="40" alt="vuejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/windows/0078D6" height="40" alt="windows8 logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/webpack/8DD6F9" height="40" alt="webpack logo"  />
   <img width="12" />
@@ -196,8 +174,6 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/nginx/009639" height="40" alt="nginx logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/powershell/5391FE" height="40" alt="powershell logo"  />
-  <img width="12" />
   <img src="https://cdn.simpleicons.org/prisma/2D3748" height="40" alt="prisma logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/redhat/EE0000" height="40" alt="redhat logo"  />
@@ -207,8 +183,6 @@
   <img src="https://cdn.simpleicons.org/sqlite/003B57" height="40" alt="sqlite logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/svg/FFB13B" height="40" alt="svg logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/twitter/1DA1F2" height="40" alt="twitter logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="40" alt="ubuntu logo"  />
   <img width="12" />
@@ -221,8 +195,6 @@
   <img src="https://cdn.simpleicons.org/vite/646CFF" height="40" alt="vite logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/webassembly/654FF0" height="40" alt="webassembly logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/windicss/48B0F1" height="40" alt="windicss logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=bots" height="40" alt="abbrobotstudio logo"  />
 </div>
