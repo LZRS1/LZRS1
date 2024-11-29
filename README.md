@@ -37,7 +37,7 @@
 
 ### LO QUE ESTOY ESCUCHANDO AHORA EN SPOTIFY  🎧
 
-[<img src="https://spotify-now-playing-6szv0zz7y-lzrs2s-projects.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/31dt4crs7es32jddzspbji7lsq7u)
+[<img src="https://spotify-now-playing-lzrs2s-projects.vercel.app//api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/31dt4crs7es32jddzspbji7lsq7u)
 
 ###
 
