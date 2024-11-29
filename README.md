@@ -35,7 +35,7 @@
   </a>
 </div>
 
-[![Spotify](https://spotify-one-tawny.vercel.app/api/spotify)](https://open.spotify.com/user/31dt4crs7es32jddzspbji7lsq7u)
+[![Spotify](https://spotify-one-tawny.vercel.app/api/spotify.py)](https://open.spotify.com/user/31dt4crs7es32jddzspbji7lsq7u)
 
 ###
 
