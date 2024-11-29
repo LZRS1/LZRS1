@@ -35,9 +35,9 @@
   </a>
 </div>
 
-<a href="https://lzrs1010.vercel.app/now-playing?open">
-    <img src="https://lzrs1010.vercel.app/now-playing" width="256" height="64" alt="ESCUCHANDO AHORA">`
-</a>
+### LO QUE ESTOY ESCUCHANDO AHORA EN SPOTIFY  🎧
+
+[<img src="https://spotify-now-playing-mu-three.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/31dt4crs7es32jddzspbji7lsq7u)
 
 ###
 
