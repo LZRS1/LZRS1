@@ -36,7 +36,7 @@
 </div>
 
 <a href="https://lzrs1010.vercel.app/now-playing?open">
-    <img src="https:/lzrs1010.vercel.app/now-playing" width="256" height="64" alt="ESCUCHANDO AHORA">`
+    <img src="https://lzrs1010.vercel.app/now-playing" width="256" height="64" alt="ESCUCHANDO AHORA">`
 </a>
 
 ###
